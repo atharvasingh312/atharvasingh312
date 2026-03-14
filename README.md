@@ -68,13 +68,13 @@
 ### 🧩 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/atharva1codes/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/">
+  <a href="https://www.codechef.com/users/atharva_singh">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://www.geeksforgeeks.org/">
+  <a href="https://www.geeksforgeeks.org/profile/atharva1codes">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
@@ -96,10 +96,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/atharva-singh-722454234/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:athsingh3123@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
